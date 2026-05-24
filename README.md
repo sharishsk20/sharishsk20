@@ -36,7 +36,7 @@ hardware:  [raspberry pi, wear os, android]
 
 ### `> ls ./projects`
 
-**🧅 project-unveil** — *in progress*  
+**🧅 onionscope** — *personal*  
 A TOR traffic analysis framework. Auditing relay behavior with Stem, parsing packet captures with Bash + Python pipelines, hunting correlation patterns for forensic work. The fun stuff.
 
 **🛡️ cloud-edge-ids** — *academic*  
@@ -48,7 +48,7 @@ Full-stack inventory platform on AWS. Flask + MSSQL backend, RBAC, automated rep
 **⌚ wearos-health-monitor** — *personal*  
 Bluetooth streaming of vitals from a Wear OS watch to Android. Implemented CRC and Hamming Code at the protocol level because off-the-shelf BLE wasn't catching the bit flips I was seeing.
 
-**🛒 amazon-price-prediction** — *academic*  
+**🛒 amazon-price-prediction** — *personal*  
 Ensemble regression for e-commerce pricing across 15+ categories. NLP feature extraction from product metadata, careful work on outliers and variance.
 
 ---
